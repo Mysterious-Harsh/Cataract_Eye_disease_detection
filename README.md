@@ -6,3 +6,5 @@
 -   Unzip the file in "CEDD/static/model" with folder name "model"
 -   Install all required files with pip install -r requirements.txt
 -   And Run python Main.py. This will starts the flask server.
+
+-   Liver Demo Server https://9460-69-166-117-246.ngrok-free.app
